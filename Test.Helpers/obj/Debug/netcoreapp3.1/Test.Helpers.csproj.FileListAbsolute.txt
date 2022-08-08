@@ -1,0 +1,12 @@
+C:\Users\Josiah\Source\Repos\ContactsApi\Contacts\Test.Helpers\bin\Debug\netcoreapp3.1\Test.Helpers.deps.json
+C:\Users\Josiah\Source\Repos\ContactsApi\Contacts\Test.Helpers\bin\Debug\netcoreapp3.1\Test.Helpers.dll
+C:\Users\Josiah\Source\Repos\ContactsApi\Contacts\Test.Helpers\bin\Debug\netcoreapp3.1\Test.Helpers.pdb
+C:\Users\Josiah\Source\Repos\ContactsApi\Contacts\Test.Helpers\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\Josiah\Source\Repos\ContactsApi\Contacts\Test.Helpers\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\Josiah\Source\Repos\ContactsApi\Contacts\Test.Helpers\obj\Debug\netcoreapp3.1\Test.Helpers.csproj.AssemblyReference.cache
+C:\Users\Josiah\Source\Repos\ContactsApi\Contacts\Test.Helpers\obj\Debug\netcoreapp3.1\Test.Helpers.AssemblyInfoInputs.cache
+C:\Users\Josiah\Source\Repos\ContactsApi\Contacts\Test.Helpers\obj\Debug\netcoreapp3.1\Test.Helpers.AssemblyInfo.cs
+C:\Users\Josiah\Source\Repos\ContactsApi\Contacts\Test.Helpers\obj\Debug\netcoreapp3.1\Test.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Josiah\Source\Repos\ContactsApi\Contacts\Test.Helpers\obj\Debug\netcoreapp3.1\Test.Helpers.csproj.CopyComplete
+C:\Users\Josiah\Source\Repos\ContactsApi\Contacts\Test.Helpers\obj\Debug\netcoreapp3.1\Test.Helpers.dll
+C:\Users\Josiah\Source\Repos\ContactsApi\Contacts\Test.Helpers\obj\Debug\netcoreapp3.1\Test.Helpers.pdb
